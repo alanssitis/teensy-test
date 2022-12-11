@@ -1,0 +1,3 @@
+[submodule "lib/ros_lib"]
+	path = lib/ros_lib
+	url = git@github.com:Autonomous-Motorsports-Purdue/ros_lib.git
